@@ -52,11 +52,6 @@ Run the analyzer:
 
 python analyzer.py
 
-
-Open your browser and visit:
-
-http://127.0.0.1:5000/
-
 Usage
 
 The dashboard will display live network packets as they are captured.
@@ -73,10 +68,3 @@ Integrate with advanced threat intelligence APIs.
 
 Optimize IP geolocation for faster real-time updates.
 
-License
-
-This project is open-source and available under the MIT License.
-
-Alerts will appear in the console if a suspicious port is detected or a port scan is suspected.
-
-Logs are saved automatically to traffic_log.txt for further analysis.
